@@ -391,6 +391,13 @@ a{
        }
       
    }
+   @media only screen and (max-width: 368px){
+    
+    .main__hero{
+        margin-top: 300px;
+    }
+      
+   }
    .main__hero--div{
     width: 80%;
     margin: auto;
